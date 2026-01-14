@@ -91,7 +91,7 @@ console.log("%cEjercicio 01: Declaración de variables en JavaScript", style_con
 
 // Interpolación de Datos
 
-// ${}`
+// ${}``
 misApellidos = "Lara Cruz";
 console.log(`Hola mi nombre es ${miNombre} mis apellidos son ${misApellidos} y tengo ${miEdad} años de edad.`);
 
